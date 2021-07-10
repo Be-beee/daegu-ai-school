@@ -7,4 +7,5 @@
 - [Microsoft Azure](https://github.com/Be-beee/daegu-ai-school/tree/main/02_Azure)
 - [Numpy, Pandas, Matplotlib](https://github.com/Be-beee/daegu-ai-school/tree/main/03_Libraries)
 - [Scikit-Learn](https://github.com/Be-beee/daegu-ai-school/tree/main/04_Scikit-Learn)
+- [Deep-Learning](https://github.com/Be-beee/daegu-ai-school/tree/main/05_Deep-Learning)
 <br><br>
